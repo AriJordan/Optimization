@@ -1,3 +1,3 @@
 # Optimization
 
-Some code of optimization problems
+Some code of optimization contest's problems
